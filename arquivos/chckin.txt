@@ -1,0 +1,5 @@
+1;Matheus Farias;- Segunda - Quarta - Sexta ;14:15 - 15:15;Boxe
+2;Robert Cutrim;- Terça - Quinta ;19:15 - 20:15;Natação
+3;Thales de Freitas;- Quarta - Sábado ;20:15 - 21:15;Musculção
+4;Luiz Fabricio;- Segunda - Terça - Quarta - Quinta - Sexta ;18:15 - 19:15;Musculção
+5;Lázaro Oliveira;- Terça - Quinta ;14:15 - 15:15;CrossFit

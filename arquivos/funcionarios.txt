@@ -1,0 +1,5 @@
+1001;Luiz Oliveira;123.456.789-00;27/03/1988; Inglês Espanhol;Masculino;(21) 98200-1212;Personal;123123 1231 12;Casado;Rua dos fulanos de tal 123
+1002;Fabio Castro;123.124.199-49;19/01/1986; Inglês;Masculino;(21) 54535-4356;Personal;123123 1231 22;Casado;Rua 111
+1005;Fernando Silva;123.124.199-49;12/31/2312; Inglês Espanhol Italiano;Masculino;(21) 32132-1312;Segurança;123123 1231 23;Solteiro;Rua 1
+1006;Ana Gomes;138.949.813-82;12/09/1990; Inglês;Masculino;(21) 45346-6545;Atendente;123123 1232 14;Solteiro;Rua 14
+1007;Pedro Dias;234.234.234-23;23/44/4234; Inglês;Masculino;(23) 42342-3423;Personal;132123 1231 23;Divorciado;Rua 99

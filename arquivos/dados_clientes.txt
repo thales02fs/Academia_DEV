@@ -1,0 +1,6 @@
+1;João Almeida;111.222.333.44;15/12/1996;Sim;Masculino;90;1.80;21 1234-1234
+2;Maria Eduarda;222.333.444.55;04/08/2003;Sim;Feminino;55;1.60;21 5678-5678
+3;Carlos Eduardo;666.777.888.99;21/03/1995;Sim;Masculino;78;1.76;21 9012-9012
+4;Matheus Farias;123.456.789-78;11/11/2002;Sim;Masculino;74;1.70;21 99038-1767
+5;Renata Leonor;123.456.789-87;08/02/1982;Sim;Masculino;68;1.58;21 99033-6448
+6;Thales Freitas;123.456.789-78;12/12/2005;Sim;Masculino;80;1.80;21 99334-5247
